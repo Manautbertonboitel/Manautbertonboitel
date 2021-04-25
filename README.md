@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manautbertonboitel
-- 👀 I’m interested in Game Production & Web Developement
+- 👀 I’m interested in Game Production & Web Development
 - 🌱 I’m currently learning Game & Level Design in Paris, France
 - 📫 How to reach me -> manautbertonboitel.com
 
