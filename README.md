@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manautbertonboitel
 - 👀 I’m interested in Game Production & Web Development
-- 🌱 I’m a Gameplay Programmer @ Pecking Crow Studio, & currently learning Game & Level Design in Paris, France
+- 🌱 I’m a student in game production & team management @ Cnam ENJMIN, previously Gameplay Programmer @ Pecking Crow Studio
 - 📫 How to reach me -> manautbertonboitel.com
 
 <!---
