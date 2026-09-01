@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manautbertonboitel
-- 👀 I’m interested in Game & Web Development
-- 🌱 Associate Producer, Cnam ENJMIN Alumni, previously Gameplay Programmer @ Pecking Crow Studio
+- 🌱 Game dev, Cnam ENJMIN Alumni
 - 📫 How to reach me -> manautbertonboitel.com
 
 <!---
